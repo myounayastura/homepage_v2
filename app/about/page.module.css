@@ -1,0 +1,21 @@
+.about{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.title{
+    margin-bottom: 1rem;
+}
+
+.subtitle{
+    margin-bottom: 1.5rem;
+}
+
+.wrapper{
+    border: 8px black;
+    border-style: inset;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
